@@ -1,0 +1,7 @@
+FINANCIAL ANALYSIS
+-------------------------------
+The total number of months is 86 months.
+The net total of profits/losses over the entire period is $22564198.
+The average change in profits/losses is $-8311.11.
+The greatest increase in profits was $1862002 in the month of Aug-16.
+The greatest decrease in profits was $-1825558 in the month of Feb-14.
